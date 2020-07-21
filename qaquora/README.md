@@ -1,7 +1,5 @@
 #### Quora-Scrapper ######
 
-This package will allow you to scrap all Questions-Answers related to any topic e.g. mathematics-and-physics,coronavirus etc from Quora.
-
 It includes two functions for now-
 
 * quora_scrap(self,keyword,PATH) 
@@ -27,5 +25,5 @@ final_question_answer_pairs_quora_dict-> specifies question-answer dictionary re
 
 
 
-If anyone wants to contribute in this project,feel free to do.
+If anyone wants to add more functions in this scrapper,feel free to contribute.
 
