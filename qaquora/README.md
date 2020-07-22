@@ -1,4 +1,4 @@
-#### Quora-Scrapper ######
+#### Quora-Scraper ######
 
 It includes two functions for now-
 
