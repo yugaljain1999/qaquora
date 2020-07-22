@@ -1,6 +1,6 @@
-#### Quora-Scrapper ######
+#### Quora-Scraper ######
 
-This scrapper can scrap all Questions-Answers related to any topic e.g. mathematics-and-physics,coronavirus etc from Quora.
+This scraper can scrap all Questions-Answers related to any topic e.g. mathematics-and-physics,coronavirus etc from Quora.
 
 
 
